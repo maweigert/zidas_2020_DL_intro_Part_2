@@ -126,6 +126,6 @@ StarDist colab
 
 ##### Image Credits:
 
-[1] Broad Bioimage Benchmark Collection
-[2] Fabián Segovia-Miranda
-[3] [Cell tracking challenge](http://celltrackingchallenge.net/)
+- [1] Broad Bioimage Benchmark Collection
+- [2] Fabián Segovia-Miranda
+- [3] [Cell tracking challenge](http://celltrackingchallenge.net/)

@@ -37,12 +37,13 @@ We are going to use google colab for the neural network training demonstration a
 ## Exercise 1 - Applying DL models in Fiji
 
 
-
-Now, we have 2 alternative projects, please pick one of them that is closest to the the median interest of your group:
+The aim of the first exercise is to try out deep learning based methods for denoising (Noie2Void) or nuclei segmentation (StarDist) in Fiji. 
+We provide 2 alternative exercises for each case (1a for denoising or 1b for segmenation). Please choose the one of them closest to the the median interest of your group.
 
 #### Alternative 1a - Denoising with Noise2Void (20 mins)
 
-DL-based Denoising in Fiji with Noise2Void
+Here we will denoise a single image by training a Noise2Void network (that doesn't need high SNR ground truth). 
+
 
 1. Open Fiji 
 
@@ -73,7 +74,7 @@ Use "predict with last checkpoint" after the training has finished.
 
 #### Alternative 1b - Nuclei Segmentation with StarDist (20mins)
 
-We gonna learn about 
+Here we will apply pretrained StarDist networks to different 2D images. Pretrained networks can be quite effective if your images are similar to the training images of the respective model (see [here](https://github.com/mpicbg-csbd/stardist#pretrained-models-for-2d) for an overview of available models and example training images). 
 
 1. Open Fiji 
 
@@ -108,8 +109,19 @@ There is a high SNR image of the same field of view: [High SNR image](https://gi
 
 ## Exercise 2 - Training DL models
 
+The aim of this second exercise is to demonstrate how to train your own deep learning models in python. This can be necessary, if no pretrained models are applicable to your task or if your images differ substantially from those a pretrained model was trained on. 
 
-Again, there are 2 alternative projects, please pick one of them:
+Again, there are 2 alternative projects:
+
+- Exercise 2a: Training of a CARE image restoration network for denoising and upsampling of 2D images
+- Exercise 2b: Training of a StarDist nuclei segmentation model for 2D images  
+
+Again, please pick one of them.
+
+Both altertatives can be run in your browser as google colab (jupyter) notebooks after you have signed in with your google account. 
+
+Each notebook needs to be run line by line from the start (don't skip lines!) almost each of which contains detailed description of its purpose.  
+Try to understand what is happening at each line before you run it (and ask your teacher if not!). 
 
 
 #### Exercise 2a

@@ -77,7 +77,7 @@ We gonna learn about
 
 1. Open Fiji 
 
-2. Load a low SNR (noisy) image containing some histone labeled HeLa cells: [Low SNR image](https://github.com/maweigert/zidas_2020_DL_intro_Part_2/raw/master/exercise1a/fluo_low.tif)
+2. Load a low SNR (noisy) image containing some histone labeled HeLa cells: [Low SNR image](https://github.com/maweigert/zidas_2020_DL_intro_Part_2/raw/master/exercise1b/fluo_low.tif)
 
 3. Try to apply a thresholding to test the output of a simple baseline method:
 
@@ -96,7 +96,7 @@ In the options
 
 5. Compare with high SNR image
 
-There is a high SNR image of the same field of view: [High SNR image](https://github.com/maweigert/zidas_2020_DL_intro_Part_2/raw/master/exercise1a/fluo_high.tif). Apply StarDist to this image and compare the results.
+There is a high SNR image of the same field of view: [High SNR image](https://github.com/maweigert/zidas_2020_DL_intro_Part_2/raw/master/exercise1b/fluo_high.tif). Apply StarDist to this image and compare the results.
 
 6. Load a histopathologie (H&E stain) [image of human retina](https://github.com/maweigert/zidas_2020_DL_intro_Part_2/raw/master/exercise1b/histo_retina.tif). Mind that this time, the image is a 3 channel rgb image (and not a single channel image as before). 
 

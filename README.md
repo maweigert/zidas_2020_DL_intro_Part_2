@@ -46,7 +46,7 @@ DL-based Denoising in Fiji with Noise2Void
 
 1. Open Fiji 
 
-2. Load a low SNR (noisy) image containing some cells: [Low SNR image](exercise1a/hepatocytes_low_snr.tif) [1]
+2. Load a low SNR (noisy) image containing some cells: [Low SNR image](https://github.com/maweigert/zidas_2020_DL_intro_Part_2/raw/master/exercise1a/hepatocytes_low_snr.tif) [1]
 
 3. Apply a median filter (poor man's denoising) of different radii to test the output of a simple baseline method:
 `Process > Filters > Median`

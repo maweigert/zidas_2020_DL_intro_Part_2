@@ -1,6 +1,6 @@
 ![Zidas](imgs/zidas_logo.png)
 
-## Deep Learning for image analysis - Exercises  
+# Deep Learning for image analysis - Exercises  
 
 ---
 
@@ -34,7 +34,7 @@ We are going to use google colab for the neural network training demonstration a
 
 ---
 
-### Exercise 1 - Applying DL models in Fiji
+## Exercise 1 - Applying DL models in Fiji
 
 
 
@@ -106,7 +106,7 @@ There is a high SNR image of the same field of view: [High SNR image](https://gi
 
 ---
 
-#### Exercise 2 - Training DL models
+## Exercise 2 - Training DL models
 
 
 Again, there are 2 alternative projects, please pick one of them:

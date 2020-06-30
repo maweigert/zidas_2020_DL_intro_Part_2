@@ -20,11 +20,11 @@ Due to the downtime of Fiji/ImageJ update sites, we created prebuilt Fiji versio
 - download the [deepImageJ plugin](https://github.com/deepimagej/deepimagej-plugin/releases/download/1.1.0/DeepImageJ_CPU_dependencies.zip) 
 - unpack the resulting zip file which should create a folder `DeepImageJ_CPU_dependencies` containing lots of jar files:
 
-![JarJar](imgs/screen_jars.png)  
+![JarJar](imgs/screen_jar.png)  
 
 - Copy all jar files into the `jars` subfolder of your Fiji installation:
 
-![JarJarBinks](imgs/screen_jars_copy.png)  
+![JarJarBinks](imgs/screen_jar_copy.png)  
 
 
 2. Google Colab 

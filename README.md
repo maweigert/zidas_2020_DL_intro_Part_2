@@ -114,11 +114,11 @@ Again, there are 2 alternative projects, please pick one of them:
 
 #### Exercise 2a
 
-CARE Denoising example: [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/zidas_2020_DL_intro_Part_2/blob/master/exercise2b/stardist_example_2D_colab.ipynb)
+CARE denoising/upsampling training example: [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/zidas_2020_DL_intro_Part_2/blob/master/exercise2a/care_example_denoising_upsampling_2D_colab.ipynb)
 
 #### Exercise 2b
 
-StarDist colab 
+StarDist training example: [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/zidas_2020_DL_intro_Part_2/blob/master/exercise2b/stardist_example_2D_colab.ipynb) 
 
 
 ---
